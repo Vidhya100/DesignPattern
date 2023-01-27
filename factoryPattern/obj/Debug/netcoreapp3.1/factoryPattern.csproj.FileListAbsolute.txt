@@ -1,0 +1,14 @@
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.exe
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.deps.json
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.runtimeconfig.json
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.runtimeconfig.dev.json
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.dll
+E:\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.pdb
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.csproj.AssemblyReference.cache
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.AssemblyInfoInputs.cache
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.AssemblyInfo.cs
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.csproj.CoreCompileInputs.cache
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.dll
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.pdb
+E:\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.genruntimeconfig.cache

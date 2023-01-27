@@ -1,0 +1,14 @@
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+E:\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.AssemblyReference.cache
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+E:\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache

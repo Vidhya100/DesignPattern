@@ -1,0 +1,14 @@
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.exe
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.deps.json
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.runtimeconfig.json
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.runtimeconfig.dev.json
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.dll
+E:\SingletonePattern\bin\Debug\netcoreapp3.1\SingletonePattern.pdb
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.csproj.AssemblyReference.cache
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.AssemblyInfoInputs.cache
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.AssemblyInfo.cs
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.csproj.CoreCompileInputs.cache
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.dll
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.pdb
+E:\SingletonePattern\obj\Debug\netcoreapp3.1\SingletonePattern.genruntimeconfig.cache
