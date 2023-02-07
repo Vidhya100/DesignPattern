@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj": {}
+    "E:\\DesignPatterns\\ObserverPattern\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "E:\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj": {
+    "E:\\DesignPatterns\\ObserverPattern\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
-        "projectName": "AdapterPattern",
-        "projectPath": "E:\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
+        "projectUniqueName": "E:\\DesignPatterns\\ObserverPattern\\ObserverPattern.csproj",
+        "projectName": "ObserverPattern",
+        "projectPath": "E:\\DesignPatterns\\ObserverPattern\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\world\\.nuget\\packages\\",
-        "outputPath": "E:\\DesignPatterns\\AdapterPattern\\obj\\",
+        "outputPath": "E:\\DesignPatterns\\ObserverPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

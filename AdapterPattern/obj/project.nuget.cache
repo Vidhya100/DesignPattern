@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTkq+PMjrPHbP2ZgEZXFnEYBuPzfGmzjtCtmMA98+oCr70yfge3X3UirD40cntCUsHuu0cbUfuWQxIuULLdPSg==",
+  "dgSpecHash": "o7LgxlO6i3srkQKl3YQWtkNee/mUa3K13eu2QSWFhRgS0A7qbX1NYlq1kAI2EPR0Tcsn/kMWyAa5zPtifTIdHA==",
   "success": true,
-  "projectFilePath": "E:\\AdapterPattern\\AdapterPattern.csproj",
+  "projectFilePath": "E:\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
